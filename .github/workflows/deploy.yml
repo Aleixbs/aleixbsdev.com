@@ -3,7 +3,12 @@ name: Deploy
 on:
   push:
     branches:
-      - main
+    - main
+  workflow_dispatch:
+
+permissions:
+  id-token: write
+  contents: read
 
 jobs:
   build:
