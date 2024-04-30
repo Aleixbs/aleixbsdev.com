@@ -13,6 +13,7 @@ Páginas:
 Diseño: 
   - un accent color + negro y blanco (en general me decanto por el verde?¿)
   - temática bola del mundo?¿?
+  - fuente: https://fonts.google.com/specimen/Quicksand 
 
 SEO:
    - meta tags en el head
