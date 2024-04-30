@@ -1,19 +1,12 @@
 .bg{
-  max-width: 100vw;
-  max-height: 100vh;
+  height: 100vh;
   background-color: black;
   z-index: 1;
-}
-
-.bg-img{
-  background-image: url('https://media.giphy.com/media/3o7TKz9bX9v9Kz2wWY/giphy.gif');
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  max-height: 100vh;
-  max-width: 100vw;
+  display: flex;
   justify-content: center;
   align-items: center;
-  z-index: -1;
+  font-size: 5vh;
+  font-family:monospace;
 }
+
 
