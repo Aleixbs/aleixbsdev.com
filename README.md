@@ -19,6 +19,9 @@ SEO:
    - palabras clave en el body (gis, developer, etc)
    - links que hagan interconexión
 
+Deploy: 
+  - https://github.com/sitek94/vite-deploy-demo?tab=readme-ov-file
+
 
 Caramelitos:
   - (estaba pensando hacer una bola del mundo y en el about me hacer un recorrido por los sitios en dónde he estado) (three.js / webgl / librerias de 3d de mapas¿?)
